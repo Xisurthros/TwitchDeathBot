@@ -1,0 +1,44 @@
+{
+    "games": [
+        {
+            "title": "Fall Guys: Ultimate Knockout",
+            "deaths": 9
+        },
+        {
+            "title": "Call of Duty: Warzone",
+            "deaths": 39
+        },
+        {
+            "title": "Minecraft Dungeons",
+            "deaths": 51
+        },
+        {
+            "title": "Call of Duty: Black Ops Cold War",
+            "deaths": 4
+        },
+        {
+            "title": "The Forest",
+            "deaths": 1
+        },
+        {
+            "title": "tar Wars Battlefront II",
+            "deaths": 5
+        },
+        {
+            "title": "Super Mario Odyssey",
+            "deaths": 1
+        },
+        {
+            "title": "Super Mario Bros. 35",
+            "deaths": 1
+        },
+        {
+            "title": "Caveblazers",
+            "deaths": 3
+        },
+        {
+            "title": "Catacomb Kids",
+            "deaths": 3
+        }
+    ]
+}
